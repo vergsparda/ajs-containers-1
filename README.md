@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4nhhr7q53ktwl8sd?svg=true)](https://ci.appveyor.com/project/vergsparda/ajs-containers-1)
